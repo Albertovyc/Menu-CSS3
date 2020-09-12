@@ -1,0 +1,43 @@
+/*Desarrollador Alberto Vega*/
+body{
+    background-color: #D0D3D4 ;
+    padding: 0.5px; 
+    font-family: arial;
+    
+}
+#menu{
+    background-color:#283747;
+
+}
+#menu ul{
+    font-weight: bold;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+#menu ul li{
+    display: inline-block;
+}
+#menu ul li a{
+    color: white;
+    display: block;
+    padding: 20px 75px;
+    text-decoration: none;
+}
+#menu ul li a:hover{
+    background-color:#212F3C;
+}
+
+.caja{
+    
+    display: table;
+}
+ .img{
+    align-items: center;
+}
+
+
+.ofi{
+    position: absolute;
+   
+}
